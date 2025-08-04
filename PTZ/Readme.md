@@ -22,9 +22,9 @@ Fushion 360
 
  [Part 2.3mf](Part%202.3mf) 
 
- [Part 3 吊式 上半部分.3mf](Part 3%20-%20%20Suspended type%20-%201.3mf) 
+ [Part 3 吊式 上半部分.3mf](Part203%20-%20%20Suspended20type%20-%201.3mf) 
 
- [Part 3 吊式 下半部分.3mf](Part%203%20-%20%20Suspended%20type - 2.3mf) 
+ [Part 3 吊式 下半部分.3mf](Part%203%20-%20%20Suspended%20type20-202.3mf) 
 
  [Part 3 座式.3mf](Part%203.3mf) 
 
