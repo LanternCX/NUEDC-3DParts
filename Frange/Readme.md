@@ -8,9 +8,9 @@ Fushion 360
 
 ## STL
 
- [螺丝固定：Frange - 1.stl](Frange - 1.stl) 
+ [螺丝固定：Frange - 1.stl](Frange%20-%201.stl) 
 
- [螺丝夹紧：Frange - 2.stl](Frange - 2.stl) 
+ [螺丝夹紧：Frange - 2.stl](Frange%20-%202.stl) 
 
 ## 效果图
 
